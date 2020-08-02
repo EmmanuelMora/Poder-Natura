@@ -44,10 +44,20 @@ h1 .abajo {
 .col2 {
     width: 400px;
     max-width: 90%;
-    margin: auto auto auto 0px;
+    margin: auto auto auto 200px;
 }
 
+@media screen and (max-width: 1052px){
+    .col2{
+        margin: auto auto auto 150px;
+    }
+}
 
+@media screen and (max-width: 950px){
+    .col2{
+        margin: auto auto auto 50px;
+    }
+}
 
 @media screen and (max-width: 600px){
     .portada {
