@@ -37,14 +37,14 @@ h1 .abajo {
 
 .col1 {
     width: 1000px;
-    max-width: 90%;
+    max-width: 50%;
     margin: 0px;
 }
 
 .col2 {
     width: 400px;
     max-width: 90%;
-    margin: auto auto auto 20%;
+    margin: auto auto auto 0px;
 }
 
 
