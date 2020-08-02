@@ -47,7 +47,7 @@ h1 .abajo {
     margin: auto auto auto 200px;
 }
 
-@media screen and (max-width: 1052px){
+@media screen and (max-width: 1166px){
     .col2{
         margin: auto auto auto 150px;
     }
@@ -56,6 +56,12 @@ h1 .abajo {
 @media screen and (max-width: 950px){
     .col2{
         margin: auto auto auto 50px;
+    }
+}
+
+@media screen and (max-width: 681px){
+    .col2{
+        margin: auto auto auto 10px;
     }
 }
 
