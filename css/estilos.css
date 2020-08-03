@@ -680,19 +680,20 @@ footer {
 
 
 .volver {
-    margin: 100px 100px;
-    padding: 1% 3%;
-    background-image: linear-gradient(to bottom right,#027e63,#06d496);
+    margin: 90% 0px 100px 70%;
+    padding: 1% 2%;
+    background-image: linear-gradient(to bottom right,#434746,#707070);
+    border: 1px solid rgba(255,255,255,0.5);
     border-radius: 30px;
     font-size: 100%;
     color: #fff;
     text-decoration: none;
-    box-shadow: 0 0 3px 3px rgba(18, 110, 80, 0.5);
+    box-shadow: 0 0 3px 3px rgba(116, 124, 121, 0.5);
     transition: 0.2s;
 }
 
 .volver:hover { /*animacion del boton abrir*/
-    box-shadow: 0 0 15px 10px rgba(18, 110, 80, 0.2);
+    box-shadow: 0 0 15px 10px rgba(243, 247, 245, 0.2);
     transform: translateY(-2px);
 }
 
