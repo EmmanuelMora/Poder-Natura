@@ -361,6 +361,10 @@ table tr {
           background-size: 100% 100%;
   }
 
+table tr td h1 {
+    margin: 10px 0px;
+}
+
 @font-face {
     font-family: 'miFuente';
     src: url(fuentes_personalizadas/Montserrat-Regular.ttf);
@@ -371,10 +375,14 @@ table tr {
     /*font-size: 90%;*/
 }
 
-table .egt {
-    width: 1500px;
-    max-width: 90%;
-    margin: 0px auto 30px auto;
+@font-face {
+    font-family: 'miFuente-bold';
+    src: url(fuentes_personalizadas/Montserrat-ExtraBold.ttf);
+}
+
+.fuente_personalizada_bold {
+    font-family: 'miFuente-bold';
+    /*font-size: 90%;*/
 }
 
 /*---------------------------------------------------imagenes-----------------------------------------------------*/
