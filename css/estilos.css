@@ -47,6 +47,20 @@ h1 .abajo {
     margin: auto auto auto 200px;
 }
 
+.col2 .fil {
+    margin-top: 20px;
+    display: flex;
+}
+
+.col2 span {
+    font-size: 30px;
+    margin-right: 10px;
+}
+
+.col2 .fil a {
+    margin-top: 6px;
+}
+
 @media screen and (max-width: 1166px){
     .col2{
         margin: auto auto auto 150px;
