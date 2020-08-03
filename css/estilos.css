@@ -677,6 +677,10 @@ footer {
 }
 
 @media screen and (max-width: 1060px){
+    .footer-all {
+        background-image: url("../imagenes/textura gris-01.png");
+    }
+    
     .footer-principal {
         flex-wrap: wrap;
     }
