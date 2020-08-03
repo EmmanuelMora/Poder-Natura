@@ -589,9 +589,16 @@ footer {
 }
 
 .column1 {
-    max-width: 633px;
+    max-width: 501px;
     width: 100%;
     margin-left: 10px;
+}
+
+.column1 img {
+    align: center;
+    width: 300px;
+    max-width: 90%;
+    margin-left: 40px;
 }
 
 .column1 h1 {
@@ -605,7 +612,7 @@ footer {
 }
 
 .column2 {
-    max-width: 633px;
+    max-width: 699px;
 }
 
 .column2 h1 {
@@ -628,7 +635,7 @@ footer {
 }
 
 .column3 {
-    max-width: 633px;
+    max-width: 699px;
 }
 
 .column3 h1{
