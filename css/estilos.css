@@ -616,6 +616,7 @@ footer {
 }
 
 .column2 h1 {
+    margin-top: 30px;
     font-size: 22px;
 }
 
@@ -639,6 +640,7 @@ footer {
 }
 
 .column3 h1{
+    margin-top: 30px;
     font-size: 22px;
 }
 
@@ -677,6 +679,11 @@ footer {
 @media screen and (max-width: 1060px){
     .footer-principal {
         flex-wrap: wrap;
+    }
+    
+    .colunm2 h1,
+    .column3 h1 {
+        margin-top: 0px;
     }
 
     .column2,
