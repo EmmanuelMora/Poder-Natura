@@ -15,7 +15,7 @@ h1 .abajo {
 }
 
 .wrap {
-    width: 1500px;
+    width: 1900px;
     max-width: 90%;
     margin: 0px auto 30px auto;
 }
@@ -23,7 +23,7 @@ h1 .abajo {
 .portada {
     padding: 0px 20px;
     display: flex;
-    width: 1500px;
+    width: 1900px;
     max-width: 100%;
     margin-top: 20px;
     background-image: linear-gradient(to bottom right,#327e6d,#7ad6ba);
@@ -258,8 +258,8 @@ table .egt {
 /*---------------------------------------------------imagenes-----------------------------------------------------*/
 
 .container-all {
-    width: 100%;
-    max-width: 1000px;
+    width: 1600px;
+    max-width: 95%;
     margin: auto;
     padding: 20px;
     border-top: 6px;
