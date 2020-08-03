@@ -23,6 +23,8 @@ h1 .abajo {
 .portada {
     padding: 0px 20px;
     display: flex;
+    justify-content: space-between;
+    color: #fff;
     width: 1900px;
     max-width: 100%;
     margin-top: 20px;
