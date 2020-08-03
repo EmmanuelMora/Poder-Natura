@@ -606,7 +606,7 @@ footer {
     margin-right: 10px;
 }
 
-.column2 .filas label {
+.column2 .filas a {
     margin-top: 6px;
     color: #fff;
 }
