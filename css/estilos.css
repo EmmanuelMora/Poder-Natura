@@ -366,6 +366,10 @@ input[id="3"]:checked ~ .pagination .pagination-item[for="3"]{
 
 /*---------------------------------------------------contenido-----------------------------------------------------*/
 
+.espacio {
+    margin-top: 40px;
+}
+
 table tr {
     font-size: 30px;
     text-align: center;
