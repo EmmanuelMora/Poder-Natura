@@ -28,7 +28,7 @@ h1 .abajo {
     width: 2000px;
     max-width: 100%;
     margin-top: 20px;
-    background-image: linear-gradient(to bottom right,#327e6d,#7ad6ba);
+    background-image: linear-gradient(to bottom right,#22B263,#199e55);
 }
 
 .portada img {
@@ -162,7 +162,7 @@ ul.tabs li a span {
 }
 
 .active {
-    background: #22B263;
+    background: #327e6d;
 }
 
 ul li a:hover {
